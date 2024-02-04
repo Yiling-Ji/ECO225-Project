@@ -1,0 +1,2 @@
+This is an individual project completed by me for ECO225 Big-data tools for Economists, with Professor Nazanin Khazra as my advisor. 
+In this project, I investigated the impact of initial funding round time, market sector, and geographic location on the amount of funding secured by startups using statistical and graphical data analysis, Python, data visualization, GIS mapping, and web‑scraping techniques.
